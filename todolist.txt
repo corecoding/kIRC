@@ -1,0 +1,1 @@
+when windows screen saver is on, say so on irc
